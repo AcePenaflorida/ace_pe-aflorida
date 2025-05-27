@@ -1,4 +1,4 @@
-<h1>Hi Future teammate, I'm Ace Peñaflorida 👋</h1>
+<h1>Your next Collaborator, Ace Peñaflorida 👋</h1>
 
 <p >
   🚀 <strong>Full Stack Developer</strong> | Aspiring <strong>Data Analyst</strong> &amp; <strong>AI Engineer</strong><br/>
