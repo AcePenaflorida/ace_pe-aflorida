@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Ace Peñaflorida</h1>
+<h1>Hi Future teammate, I'm Ace Peñaflorida 👋</h1>
 
 <p >
   🚀 <strong>Full Stack Developer</strong> | Aspiring <strong>Data Analyst</strong> &amp; <strong>AI Engineer</strong><br/>
@@ -26,9 +26,6 @@
 
 
 ---
-
-## 📈 GitHub Stats
-
 <p  style="margin-left: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=acepenaflorida&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acepenaflorida&layout=compact&theme=tokyonight&hide=html,cmake,jupyter%20notebook,ruby,css,swift,typescript,php,objective-c&hide_border=true" />
